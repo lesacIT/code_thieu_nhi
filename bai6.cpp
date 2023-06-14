@@ -6,7 +6,6 @@ th? t? tang d?n và ch? dùng t?i da m?t bi?n ph?
 
 int main(){
 	int a,b,c,t;
-	
 	printf("nhap a,b,c: ");
 	scanf("%d%d%d",&a,&b,&c);
 	
