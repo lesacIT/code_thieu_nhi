@@ -16,7 +16,7 @@ int main(){
 			else sum += (2*t)/10+(2*t)%10;
 		}
 		printf("SIN %shop le!\n",
-			   (pos <8|| sin >0 || sum %10) ? "khong":"");
+			   (pos <8|| sin >0 || sum %10) ? " khong":"");
 		}
 		return 0;
 }
