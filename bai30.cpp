@@ -12,7 +12,7 @@ int main(){
 		while(getchar()!='\n'){
 		}
 		if(n!=3|| n==EOF)
-			printf("nhap thieu haoc nhap loi!\n");
+			printf("nhap thieu hoac nhap loi!\n");
 			
 	}while(n!=3|| n==EOF);
 	
